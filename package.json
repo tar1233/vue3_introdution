@@ -6,6 +6,7 @@
   "dependencies": {
     "@vueuse/core": "^8.2.0",
     "vue": "^3.2.31",
+    "vue-router": "^4.1.6",
     "vuexy-vuetify-vuejs-admin-template": "https://github.com/tar1233/vite_app_components.git"
   },
   "devDependencies": {
